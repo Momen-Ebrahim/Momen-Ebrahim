@@ -6,7 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&size=30&lines=Flutter+Developer.;)](https://git.io/typing-svg)
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- <span style="font-size: smaller;">:school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).</span>
+
 - 🌱 I’m currently learning `flutter`
 - 🤓 Always learning new things
 - 📫 How to reach me **moamenebrahim450@gmail.com**
