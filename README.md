@@ -1,7 +1,8 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=blue&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Moamen+Welcome+to+my+Profile!+" alt="Hey, I'm Moamen Welcome to my Profile! animated typed out">
     <img src="assests/borderseperator.gif" style="display: block; margin-top: 20px; margin-bottom: 20px;">
-    <img align="right" src="https://github.com/GergesHany/GergesHany/blob/main/Right_Side.gif" width="250px">
+        <img align="right" width="250px" src="assests\codeing.gif" >
+
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&size=30&lines=Flutter+Developer.;)](https://git.io/typing-svg)
